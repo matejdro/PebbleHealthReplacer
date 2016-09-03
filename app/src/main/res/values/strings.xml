@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PebbleHealthReplacer</string>
+    <string name="need_developer_connection">For this app to work, you need to enable developer connection in the Pebble app!</string>
+    <string name="dev_conn_timeout_warning">Please note that unless you enable included Xposed module (needs root), developer connection will shut down itself after 10 minutes.</string>
+    <string name="instructions">Instructions</string>
+    <string name="pick_replacement_app">Pick replacement app</string>
+    <string name="enable_replacement">Enable replacement</string>
+
+    <string name="error_developer_connection">Error while connecting to Pebble\'s developer connection. Do you have it on?</string>
+    <string name="retrieving_app">Retrieving current app…</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="app_retrieval_intro">Please open wanted target app on your watch and press continue.</string>
+    <string name="picking_finished">App picking finished</string>
+    <string name="xposed_description">Module that removes Pebble\'s developer connection timeout</string>
+</resources>
